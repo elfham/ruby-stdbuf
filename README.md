@@ -1,6 +1,6 @@
 # ruby-stdbuf
 
-An experimental implementation of stdbuf support of Ruby.
+An experimental implementation of stdbuf(1) support of Ruby.
 
 see: https://bugs.ruby-lang.org/issues/17148
 
