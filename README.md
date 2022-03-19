@@ -2,7 +2,7 @@
 
 An experimental implementation of stdbuf(1) support of Ruby.
 
-see: https://bugs.ruby-lang.org/issues/17148
+see: [Feature \#17148: stdbuf\(1\) support \- Ruby master \- Ruby Issue Tracking System](https://bugs.ruby-lang.org/issues/17148)
 
 ## Usage
 
